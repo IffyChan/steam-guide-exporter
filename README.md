@@ -5,7 +5,6 @@
 [![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
 [![Русский](https://img.shields.io/badge/lang-Русский-grey.svg)](README.ru.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Tests](https://github.com/IffyChan/steam-guide-exporter/actions/workflows/test.yml/badge.svg)](https://github.com/IffyChan/steam-guide-exporter/actions/workflows/test.yml)
 
 **Export any Steam Community Guide to Markdown (`.md`) or standalone offline HTML (`.html`) — with or without images.**
 
