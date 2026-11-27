@@ -14,6 +14,14 @@
 
 ---
 
+## Screenshots
+
+### Native Export Button & Dropdown Menu on Steam
+![Steam Guide Exporter menu](docs/preview-menu.png)
+
+### Exported Standalone Offline HTML
+![Exported standalone HTML guide](docs/preview-html.png)
+
 ## Features
 
 - **Native Steam UI Integration**: Adds an **Export ▾** button right inside the guide action bar (`#ItemControls`), only on actual Steam Guide pages.
